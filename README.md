@@ -1,6 +1,10 @@
 # Test
 
 
+## Project Screenshots
+
+![alt text](./project-output.PNG)
+
 
 ## Getting started
 
@@ -43,6 +47,7 @@ Use the built-in continuous integration in GitLab.
 - [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
 
 ***
+
 
 # Editing this README
 
